@@ -1,3 +1,25 @@
+Metadata-Version: 2.1
+Name: SSyDfem
+Version: 0.0.3
+Summary: Structural FEM library building in python.
+Author: nf-project (Fernando E. Burgos)
+Author-email: <burgosnfer@gmail.com>
+Keywords: python,fem
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: vtk
+Requires-Dist: PyVTK
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: matplotlib
+Requires-Dist: gmsh
+
 # SSyDfem
 This is a fem library in python for static and dynamic structural problems. The purpose of this library is for academic uses and teaching the finite element method.
 
@@ -26,6 +48,6 @@ Install CALFEM for python using pip install
 ## References
 
 Rao, S.S.. (2017). The finite element method in engineering. 
-Oñate, Eugenio. (2009). Structural Analysis with the Finite Element Method. Linear Statics. Vol. 1: Basis and Solids. 10.1007/978-1-4020-8733-2. 
+OÃ±ate, Eugenio. (2009). Structural Analysis with the Finite Element Method. Linear Statics. Vol. 1: Basis and Solids. 10.1007/978-1-4020-8733-2. 
 Kausel, Eduardo. 2017. Advanced Structural Dynamics. Cambridge: Cambridge University Press.
-Oñate, Eugenio. (2010). Structural analysis with the finite element method. Linear statics. Volume 2: Beams, plates and shells. 
+OÃ±ate, Eugenio. (2010). Structural analysis with the finite element method. Linear statics. Volume 2: Beams, plates and shells. 

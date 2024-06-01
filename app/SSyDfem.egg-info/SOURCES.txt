@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.py
+app/SSyDfem/__init__.py
+app/SSyDfem.egg-info/PKG-INFO
+app/SSyDfem.egg-info/SOURCES.txt
+app/SSyDfem.egg-info/dependency_links.txt
+app/SSyDfem.egg-info/requires.txt
+app/SSyDfem.egg-info/top_level.txt
+app/SSyDfem/src/SSyDfem.py
+app/SSyDfem/src/__init__.py
+app/SSyDfem/src/get_data_vtk.py
+app/SSyDfem/src/get_data_vtk2.py
+app/SSyDfem/src/postprocess_EulerBeam_2d.py
+app/SSyDfem/src/postprocess_EulerBeam_3d.py

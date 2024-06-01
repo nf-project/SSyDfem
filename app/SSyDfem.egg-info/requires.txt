@@ -1,0 +1,6 @@
+vtk
+PyVTK
+numpy
+scipy
+matplotlib
+gmsh
