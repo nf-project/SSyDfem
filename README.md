@@ -25,7 +25,7 @@ Install CALFEM for python using pip install
 
 ## References
 
-Rao, S.S.. (2017). The finite element method in engineering. 
-Oñate, Eugenio. (2009). Structural Analysis with the Finite Element Method. Linear Statics. Vol. 1: Basis and Solids. 10.1007/978-1-4020-8733-2. 
-Kausel, Eduardo. 2017. Advanced Structural Dynamics. Cambridge: Cambridge University Press.
-Oñate, Eugenio. (2010). Structural analysis with the finite element method. Linear statics. Volume 2: Beams, plates and shells. 
+* Rao, S.S.. (2017). The finite element method in engineering. 
+* Oñate, Eugenio. (2009). Structural Analysis with the Finite Element Method. Linear Statics. Vol. 1: Basis and Solids. 10.1007/978-1-4020-8733-2. 
+* Kausel, Eduardo. 2017. Advanced Structural Dynamics. Cambridge: Cambridge University Press.
+* Oñate, Eugenio. (2010). Structural analysis with the finite element method. Linear statics. Volume 2: Beams, plates and shells. 
