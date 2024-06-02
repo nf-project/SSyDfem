@@ -1,6 +1,8 @@
 # SSyDfem
 This is a fem library in python for static and dynamic structural problems. The purpose of this library is for academic uses and teaching the finite element method.
 
+NOTE: WORK IN PROGRESS
+
 It is based in other libraries avaibles in the web:
 
 * CALFEM (https://github.com/CALFEM/calfem-python)
